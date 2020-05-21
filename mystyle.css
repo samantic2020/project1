@@ -1,0 +1,10 @@
+
+#block
+{
+    display:inline-block;
+    text-align:center;
+    width: 40%;
+    padding: 20px;
+    border-color: black;
+    background-color: blueviolet;
+}
